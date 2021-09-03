@@ -5,7 +5,7 @@ public class Account {
     private double debtLimit;
 
     /*
-    Konstruktor. Tilldelar värden för accountId och balance.
+    Konstruktor. Tilldelar värden för accountId, balance och debtLimit.
      */
     public Account(){
         this.accountId = idGen;
