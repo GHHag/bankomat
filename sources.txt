@@ -1,0 +1,9 @@
+Account.java
+Bank.java
+BankomatMain.java
+Customer.java
+
+/*
+> dir /s /B *.java > sources.txt
+> javac @sources.txt
+*/
